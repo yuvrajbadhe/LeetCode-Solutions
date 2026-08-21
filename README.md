@@ -6,6 +6,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -30,6 +31,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -46,4 +48,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 <!---LeetCode Topics End-->
