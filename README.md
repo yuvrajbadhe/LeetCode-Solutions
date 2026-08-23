@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [2469-convert-the-temperature](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
