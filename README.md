@@ -18,6 +18,7 @@
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1470-shuffle-the-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -59,6 +60,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [1672-richest-customer-wealth](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -68,4 +70,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1929-concatenation-of-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0073-set-matrix-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 <!---LeetCode Topics End-->
