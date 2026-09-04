@@ -22,6 +22,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
+| [0033-search-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -35,6 +36,7 @@
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0033-search-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 ## Two Pointers
