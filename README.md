@@ -30,6 +30,7 @@
 | [1920-build-array-from-permutation](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -72,6 +73,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [3903-smallest-stable-index-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
