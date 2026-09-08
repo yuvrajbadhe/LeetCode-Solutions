@@ -9,6 +9,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [2235-add-two-integers](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
+| [3870-count-commas-in-range](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
