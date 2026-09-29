@@ -8,6 +8,7 @@
 | [0062-unique-paths](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0263-ugly-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
 | [3870-count-commas-in-range](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
@@ -86,6 +87,7 @@
 | ------- | ------- |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
