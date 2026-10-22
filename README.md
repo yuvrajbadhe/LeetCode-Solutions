@@ -9,6 +9,7 @@
 | [0263-ugly-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [2028-find-missing-observations](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2028-find-missing-observations/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
@@ -49,6 +50,7 @@
 | [1773-count-items-matching-a-rule](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2028-find-missing-observations](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2028-find-missing-observations/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -121,6 +123,7 @@
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
+| [2028-find-missing-observations](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2028-find-missing-observations/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
