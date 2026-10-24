@@ -31,6 +31,7 @@
 | ------- | ------- |
 | [0001-two-sum](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0001-two-sum/) | Easy |
 | [0004-median-of-two-sorted-arrays](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
+| [0011-container-with-most-water](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0075-sort-colors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -73,6 +74,7 @@
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0011-container-with-most-water](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -178,4 +180,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
+## Greedy
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0011-container-with-most-water](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 <!---LeetCode Topics End-->
