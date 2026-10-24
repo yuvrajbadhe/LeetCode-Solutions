@@ -82,6 +82,7 @@
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
+| [0242-valid-anagram](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
@@ -136,6 +137,7 @@
 | [0073-set-matrix-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0169-majority-element](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
@@ -143,6 +145,7 @@
 | [0075-sort-colors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0169-majority-element](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0242-valid-anagram](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
