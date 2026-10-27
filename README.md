@@ -62,6 +62,7 @@
 | [3875-construct-uniform-parity-array-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
+| [3925-concatenate-array-with-reverse](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@
 | [1929-concatenation-of-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2028-find-missing-observations](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2028-find-missing-observations/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [3925-concatenate-array-with-reverse](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
