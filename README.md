@@ -51,6 +51,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1470-shuffle-the-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -76,6 +77,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0875-koko-eating-bananas](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1539-kth-missing-positive-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
