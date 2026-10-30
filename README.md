@@ -48,6 +48,7 @@
 | [0169-majority-element](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
+| [0238-product-of-array-except-self](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
@@ -135,6 +136,7 @@
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0238-product-of-array-except-self](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
