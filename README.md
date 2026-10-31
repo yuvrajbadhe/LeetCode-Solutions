@@ -51,6 +51,7 @@
 | [0238-product-of-array-except-self](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0704-binary-search](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
+| [0733-flood-fill](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
 | [1470-shuffle-the-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -131,6 +132,7 @@
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+| [0733-flood-fill](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
 ## Prefix Sum
@@ -208,4 +210,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0733-flood-fill](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 <!---LeetCode Topics End-->
