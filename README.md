@@ -16,6 +16,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Dynamic Programming
@@ -68,6 +69,7 @@
 | [2028-find-missing-observations](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2028-find-missing-observations/) | Medium |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2605-form-smallest-number-from-two-digit-arrays](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2605-form-smallest-number-from-two-digit-arrays/) | Easy |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3903-smallest-stable-index-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3903-smallest-stable-index-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
