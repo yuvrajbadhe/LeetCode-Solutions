@@ -41,6 +41,7 @@
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0078-subsets](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
@@ -81,6 +82,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0004-median-of-two-sorted-arrays/) | Hard |
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0081-search-in-rotated-sorted-array-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
@@ -139,6 +141,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0733-flood-fill](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
