@@ -13,6 +13,7 @@
 | [0492-construct-the-rectangle](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
 | [1281-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1281-subtract-the-product-and-sum-of-digits-of-an-integer/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
+| [1390-four-divisors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [2028-find-missing-observations](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2028-find-missing-observations/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
@@ -63,6 +64,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [1390-four-divisors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1470-shuffle-the-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
@@ -239,4 +241,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0733-flood-fill](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
+## Prime Factorization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1390-four-divisors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
+## Sieve Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1390-four-divisors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 <!---LeetCode Topics End-->
