@@ -8,6 +8,7 @@
 | [0062-unique-paths](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
+| [0371-sum-of-two-integers](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
@@ -142,6 +143,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0371-sum-of-two-integers](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1342-number-of-steps-to-reduce-a-number-to-zero/) | Easy |
