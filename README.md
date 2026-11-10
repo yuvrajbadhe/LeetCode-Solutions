@@ -5,6 +5,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
 | [0189-rotate-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
@@ -43,6 +44,7 @@
 | [0027-remove-element](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0027-remove-element/) | Easy |
 | [0033-search-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
+| [0048-rotate-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0075-sort-colors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
@@ -150,6 +152,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0048-rotate-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0073-set-matrix-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0073-set-matrix-zeroes/) | Medium |
 | [0074-search-a-2d-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
