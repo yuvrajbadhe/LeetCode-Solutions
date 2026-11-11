@@ -7,6 +7,7 @@
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0062-unique-paths/) | Medium |
+| [0172-factorial-trailing-zeroes](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0172-factorial-trailing-zeroes/) | Medium |
 | [0189-rotate-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
