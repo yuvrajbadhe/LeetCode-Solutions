@@ -61,6 +61,7 @@
 | [0189-rotate-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0238-product-of-array-except-self](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0238-product-of-array-except-self/) | Medium |
+| [0274-h-index](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -197,6 +198,7 @@
 | [0169-majority-element](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0217-contains-duplicate](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0274-h-index](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
@@ -257,4 +259,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1390-four-divisors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
+## Counting Sort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0274-h-index](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
 <!---LeetCode Topics End-->
