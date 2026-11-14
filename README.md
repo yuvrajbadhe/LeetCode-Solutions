@@ -65,6 +65,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
@@ -99,6 +100,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
@@ -117,6 +119,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
@@ -202,6 +205,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
@@ -239,6 +243,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
 | ------- | ------- |
