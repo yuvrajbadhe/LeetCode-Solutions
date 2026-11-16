@@ -71,6 +71,7 @@
 | [0744-find-smallest-letter-greater-than-target](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0744-find-smallest-letter-greater-than-target/) | Easy |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0875-koko-eating-bananas/) | Medium |
+| [0881-boats-to-save-people](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1390-four-divisors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1470-shuffle-the-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
@@ -122,6 +123,7 @@
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
+| [0881-boats-to-save-people](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 ## String
@@ -208,6 +210,7 @@
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0881-boats-to-save-people](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
@@ -247,6 +250,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
+| [0881-boats-to-save-people](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -272,4 +276,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0274-h-index](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0274-h-index/) | Medium |
+## Timsort
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0881-boats-to-save-people](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 <!---LeetCode Topics End-->
