@@ -77,6 +77,7 @@
 | [1390-four-divisors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1390-four-divisors/) | Medium |
 | [1470-shuffle-the-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1470-shuffle-the-array/) | Easy |
 | [1480-running-sum-of-1d-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1480-running-sum-of-1d-array/) | Easy |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1539-kth-missing-positive-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -214,6 +215,7 @@
 | [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0881-boats-to-save-people](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
+| [1502-can-make-arithmetic-progression-from-sequence](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [2089-find-target-indices-after-sorting-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 ## Divide and Conquer
