@@ -66,6 +66,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0704-binary-search](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0704-binary-search/) | Easy |
 | [0733-flood-fill](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0733-flood-fill/) | Easy |
@@ -124,6 +125,7 @@
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
 | [0189-rotate-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
 | [0881-boats-to-save-people](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
@@ -212,6 +214,7 @@
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0881-boats-to-save-people](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
@@ -253,6 +256,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0011-container-with-most-water/) | Medium |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 | [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
 | [0881-boats-to-save-people](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0948-bag-of-tokens](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0948-bag-of-tokens/) | Medium |
@@ -284,4 +288,12 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0881-boats-to-save-people](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0881-boats-to-save-people/) | Medium |
+## Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0581-shortest-unsorted-continuous-subarray](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
 <!---LeetCode Topics End-->
