@@ -12,6 +12,7 @@
 | [0189-rotate-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0263-ugly-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0263-ugly-number/) | Easy |
 | [0371-sum-of-two-integers](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
+| [0390-elimination-game](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0390-elimination-game/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0462-minimum-moves-to-equal-array-elements-ii/) | Medium |
 | [0492-construct-the-rectangle](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0492-construct-the-rectangle/) | Easy |
@@ -302,4 +303,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0070-climbing-stairs/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0390-elimination-game](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0390-elimination-game/) | Medium |
 <!---LeetCode Topics End-->
