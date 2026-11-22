@@ -143,6 +143,7 @@
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [1768-merge-strings-alternately](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
+| [2124-check-if-all-as-appears-before-all-bs](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2124-check-if-all-as-appears-before-all-bs/) | Easy |
 ## String Matching
 | Problem Name | Difficulty |
 | ------- | ------- |
