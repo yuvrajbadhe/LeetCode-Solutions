@@ -61,6 +61,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0169-majority-element](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0169-majority-element/) | Easy |
 | [0189-rotate-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0217-contains-duplicate/) | Easy |
@@ -107,6 +108,7 @@
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0378-kth-smallest-element-in-a-sorted-matrix](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0378-kth-smallest-element-in-a-sorted-matrix/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0611-valid-triangle-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0611-valid-triangle-number/) | Medium |
@@ -126,6 +128,7 @@
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0028-find-the-index-of-the-first-occurrence-in-a-string/) | Easy |
 | [0075-sort-colors](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0075-sort-colors/) | Medium |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0167-two-sum-ii-input-array-is-sorted/) | Medium |
 | [0189-rotate-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0189-rotate-array/) | Medium |
 | [0532-k-diff-pairs-in-an-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0532-k-diff-pairs-in-an-array/) | Medium |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0581-shortest-unsorted-continuous-subarray/) | Medium |
