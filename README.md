@@ -58,6 +58,7 @@
 | [0090-subsets-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
 | [0118-pascals-triangle](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0118-pascals-triangle/) | Easy |
 | [0119-pascals-triangle-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0119-pascals-triangle-ii/) | Easy |
+| [0137-single-number-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0154-find-minimum-in-rotated-sorted-array-ii/) | Hard |
 | [0162-find-peak-element](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0162-find-peak-element/) | Medium |
@@ -168,6 +169,7 @@
 | ------- | ------- |
 | [0078-subsets](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0078-subsets/) | Medium |
 | [0090-subsets-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0090-subsets-ii/) | Medium |
+| [0137-single-number-ii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0137-single-number-ii/) | Medium |
 | [0371-sum-of-two-integers](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0371-sum-of-two-integers/) | Medium |
 | [0405-convert-a-number-to-hexadecimal](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0405-convert-a-number-to-hexadecimal/) | Easy |
 | [0832-flipping-an-image](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/0832-flipping-an-image/) | Easy |
