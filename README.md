@@ -23,6 +23,7 @@
 | [2169-count-operations-to-obtain-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
 | [2235-add-two-integers](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2235-add-two-integers/) | Easy |
 | [2469-convert-the-temperature](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2469-convert-the-temperature/) | Easy |
+| [3360-stone-removal-game](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3736-minimum-moves-to-equal-array-elements-iii/) | Easy |
 | [3870-count-commas-in-range](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -200,6 +201,7 @@
 | [1929-concatenation-of-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
 | [2028-find-missing-observations](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2028-find-missing-observations/) | Medium |
 | [2169-count-operations-to-obtain-zero](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/2169-count-operations-to-obtain-zero/) | Easy |
+| [3360-stone-removal-game](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3360-stone-removal-game/) | Easy |
 | [3925-concatenate-array-with-reverse](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/3925-concatenate-array-with-reverse/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
