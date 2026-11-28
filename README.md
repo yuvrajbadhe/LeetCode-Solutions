@@ -89,6 +89,7 @@
 | [1539-kth-missing-positive-number](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1539-kth-missing-positive-number/) | Easy |
 | [1608-special-array-with-x-elements-greater-than-or-equal-x](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1608-special-array-with-x-elements-greater-than-or-equal-x/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1672-richest-customer-wealth/) | Easy |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1752-check-if-array-is-sorted-and-rotated/) | Easy |
 | [1773-count-items-matching-a-rule](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1773-count-items-matching-a-rule/) | Easy |
 | [1920-build-array-from-permutation](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1920-build-array-from-permutation/) | Easy |
 | [1929-concatenation-of-array](https://github.com/yuvrajbadhe/LeetCode-Solutions/tree/main/1929-concatenation-of-array/) | Easy |
